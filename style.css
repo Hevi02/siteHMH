@@ -10,6 +10,7 @@
     color: white;
     .div-imagem-p1{
         display: flex;
+        width: 594px;
         justify-content: space-around;
         align-items: center;
         font-size: 25px;
