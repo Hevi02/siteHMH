@@ -8,16 +8,11 @@
     left: 0px;
     top: 0px;
     color: white;
-
-    .imagem1
-    /* Rectangle 6 */
-
-
-position: absolute;
-width: 594px;
-height: 359px;
-left: 39px;
-top: 275px;
-
-background: url(15 de mar.png);
-    }
+    .div-imagem-p1{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 25px;
+        text-align: center;
+        
+}
