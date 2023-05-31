@@ -1,4 +1,4 @@
-.cabeçalho{
+    .cabeçalho{
     background-color: #04075A;
     display: flex;
     justify-content: center;
@@ -8,11 +8,5 @@
     left: 0px;
     top: 0px;
     color: white;
-    .div-imagem-p1
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        font-size: 25px;
-        text-align: center;
-        
+     .imagem1: 1px;
 }
