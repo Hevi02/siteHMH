@@ -8,4 +8,16 @@
     left: 0px;
     top: 0px;
     color: white;
+
+    .imagem1
+    /* Rectangle 6 */
+
+
+position: absolute;
+width: 594px;
+height: 359px;
+left: 39px;
+top: 275px;
+
+background: url(15 de mar.png);
     }
