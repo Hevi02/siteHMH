@@ -9,9 +9,12 @@
     top: 0px;
     color: white;
 
-   .div-imagem-p1
+   .imagem-p1{
    width: 594px;
     height: 359px;
     left: 39px;
     top: 275px;
-.img-imagem-p1
+   }
+    .imagem-p1{
+    width: 594px;
+    }
