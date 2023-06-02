@@ -9,13 +9,13 @@
     top: 0px;
     color: white;
     
-    .div-imagem-1{
+    .div-imagem-p1{
         display: flex;
         justify-content: space-around;
         font-size: 40px;
         text-align: center;       
 }
 
-.imagem-1{
+.imagem-p1{
     width: 300px;
 }
