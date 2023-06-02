@@ -8,14 +8,9 @@
     left: 0px;
     top: 0px;
     color: white;
-    
-    .div-{
-        display: flex;
-        justify-content: space-around;
-        font-size: 40px;
-        text-align: center;       
-}
 
-.imagem-p1{
-    width: 300px;
-}
+   .div-imagem-p1
+   width: 594px;
+    height: 359px;
+    left: 39px;
+    top: 275px;
