@@ -22,11 +22,11 @@ background-color: #00278c;
     }
 
     .p-1{
-        display: block;
-        font-size: 25px;
-        align-items: center;
-        padding: 20px;
-        margin: 10px;
-        text-align: center;
-background-color: #ffffff;
+    display: block;
+    font-size: 25px;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #ffffff;
 }
