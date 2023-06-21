@@ -31,7 +31,11 @@ background-color: #00278c;
     color: #ffffff;
 }
     .imagem-2{
-    width: 560px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 25px;
+        text-align: center;
     }
 
     .p-2{
